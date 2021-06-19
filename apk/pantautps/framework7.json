@@ -1,0 +1,30 @@
+{
+  "cwd": "D:\\UserFiles\\AshadiPutra\\Stuff\\Final-Projects\\Codes\\PantauTPS\\apk\\pantautps",
+  "type": [
+    "cordova"
+  ],
+  "name": "Pantau TPS",
+  "pkg": "id.ac.plnm.monitoring.tps",
+  "framework": "core",
+  "template": "blank",
+  "bundler": false,
+  "cordova": {
+    "folder": "cordova",
+    "platforms": [
+      "android"
+    ],
+    "plugins": [
+      "cordova-plugin-statusbar",
+      "cordova-plugin-keyboard",
+      "cordova-plugin-splashscreen"
+    ]
+  },
+  "theming": {
+    "customColor": false,
+    "color": "#007aff",
+    "darkTheme": false,
+    "iconFonts": true,
+    "fillBars": false
+  },
+  "customBuild": false
+}
